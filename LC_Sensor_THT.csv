@@ -1,0 +1,35 @@
+"Source:","D:\UNSOED\KERJA PRAKTIK\1_Kerja\PCB\LC_Sensor_THT\LC_Sensor_THT.kicad_sch"
+"Date:","1/18/2023 1:52:04 PM"
+"Tool:","Eeschema (6.0.9)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","12"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","220pF","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"","","C2","220pF","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"","","C3","470nF","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"","","D1","1N5819","Diode:1N5819","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88525/1n5817.pdf"
+"","","D2","1N5819","Diode:1N5819","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88525/1n5817.pdf"
+"","","J1","Conn_01x06_Female","Connector:Conn_01x06_Female","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
+"","","L1","470uH","pspice:INDUCTOR","Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700","~"
+"","","L2","470uH","pspice:INDUCTOR","Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700","~"
+"","","R1","150","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R2","150","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R3","20k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R4","22k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","2","C1, C2","220pF","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"2","1","C3","470nF","Device:C","Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm","~"
+"3","2","D1, D2","1N5819","Diode:1N5819","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88525/1n5817.pdf"
+"4","1","J1","Conn_01x06_Female","Connector:Conn_01x06_Female","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~"
+"5","2","L1, L2","470uH","pspice:INDUCTOR","Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700","~"
+"6","2","R1, R2","150","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"7","1","R3","20k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"8","1","R4","22k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
